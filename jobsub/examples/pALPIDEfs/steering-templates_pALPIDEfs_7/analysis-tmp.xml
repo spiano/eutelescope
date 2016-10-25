@@ -156,7 +156,7 @@
   <!--This is the ID of the DUT-->
   <parameter name="dutID" type="int" value="@dutID@"/>
   <!--This is the maximum number of pixels in one cluster for the clustershape analysis-->
-  <parameter name="MaxNumberOfPixels" type="int" value="3"/>
+  <parameter name="MaxNumberOfPixels" type="int" value="6"/>
   <!--This is the maximum number of planes that can have more than one hit-->
   <parameter name="nPlanesWithMoreHits" type="int" value="3"/>
   <!--More tracks are allowed in one event-->
